@@ -1,2 +1,2 @@
 # KindleA
-## online reader which simulates the kindle device
+## A book reader which simulates the kindle device
